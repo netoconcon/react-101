@@ -6,7 +6,7 @@ const userOutput = (props) => {
             <p>Username: {props.userName} </p>
             <p>Other rnd text</p>
         </div>
-    )
+    );
 };
 
 export default userOutput;
